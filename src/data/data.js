@@ -1,4 +1,4 @@
-const nav = ["shlvar", "naski", "botas", "kastum"];
+const nav = ["shlvar", "aknoc", "televizr", "kastum"];
 
 const data = [
     {
